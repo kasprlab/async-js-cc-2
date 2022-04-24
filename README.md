@@ -38,5 +38,3 @@ otherwise images load too fast
 
 ### Notes
 
-PART 1
-- [ ] How does `document.createElement('img')` works
